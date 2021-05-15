@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises">
+        <item>PERU</item>
+        <item>Bolivia</item>
+        <item>VENEZUELA</item>
+        <item>Colombia</item>
+        <item>Brazil</item>
+        <item>Ecuador</item>
+        <item>Paraguay</item>
+        <item>Chile</item>
+    </string-array>
+    <string-array name="planeta">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>MARTE</item>
+        <item>JUPITER</item>
+        <item>SATURNO</item>
+        <item>URANO</item>
+        <item>Neptuno</item>
+        <item>Pluton</item>
+    </string-array>
+    <string-array name="ayuda">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>30</item>
+        <item>23</item>
+        <item>S24</item>
+        <item>67</item>
+        <item>N1000</item>
+        <item>P89</item>
+    </string-array>
+</resources>
